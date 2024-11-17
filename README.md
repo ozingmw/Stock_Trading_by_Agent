@@ -1,2 +1,1 @@
-# Stock_Trading_by_Agent
-A repository for automating stock trading using LLM agents
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
